@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samfu19971113
-- 👀 I’m interested in arm architecture.
+- 👀 I’m interested in computer architecture.
 - 🌱 I’m currently learning C & C++ language and linux.
 - 💞️ I’m looking forward to enhancing my coding skill . 
 - 📫 How to reach me sam86111374@gmail.com
