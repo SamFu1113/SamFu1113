@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=samfu19971113)
 
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samfu19971113)](https://github.com/samfu19971113/github-readme-stats)
+[![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=samfu19971113)](https://github.com/samfu19971113/github-readme-stats)]
 
