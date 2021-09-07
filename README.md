@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SamFu
 - 👀 I’m interested in computer system.
 - 🌱 I’m currently learning C and linux.
-- 💞️ I’m looking forward to enhancing my coding skill about C. I'm learning C++ now. 
+- 💞️ I’m looking forward to enhancing my coding skill about C. I want tp enhance the coding skill in c. 
 - 📫 How to reach me sam86111374@gmail.com
 
 <!---
