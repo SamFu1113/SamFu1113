@@ -9,7 +9,7 @@ samfu19971113/samfu19971113 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Sam's github stats](https://github-readme-stats.vercel.app/api?username=Samfu1113)
+![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamFu1113)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samfu19971113)](https://github.com/samfu19971113/github-readme-stats)
