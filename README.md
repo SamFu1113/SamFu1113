@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer system.
 - 🌱 I’m currently learning C and linux.
 - 💞️ I’m looking forward to enhancing my C coding skill.
-- 📫 How to reach me sam86111374@gmail.com
+- 📫 How to reach me: sam86111374@gmail.com
 
 <!---
 samfu19971113/samfu19971113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
