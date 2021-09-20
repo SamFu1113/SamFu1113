@@ -2,7 +2,7 @@
 - 👀 I’m interested in system software.
 - 🌱 I’m currently learning C and linux common commands.
 - 💞️ I’m looking forward to enhancing my C coding skill. I'm also trying to step into linux kernel.
-- 📫 How to reach me: sam86111374@gmail.com
+- 📫 How to reach me: sam86111374@gmail.com. Besides, this is my site:(https://samfu1113.github.io/)
 
 <!---
 samfu19971113/samfu19971113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
