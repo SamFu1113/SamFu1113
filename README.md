@@ -1,7 +1,8 @@
 - 👋 Hello, I’m Sam Fu.
 - 👀 I’m interested in system software.
-- 💞️ I’m want to enhance my C coding skill. I'm current learning linux kernel.
-- 🌱 I’m currently learning C language.
+- 💞️ I’m want to enhance my C coding skill.
+- 🌱 I’m currently learning C language. 
+I'm learning Linux kernel.   
 - 📫 How to reach me: sam86111374@gmail.com. 
 
 <!---
