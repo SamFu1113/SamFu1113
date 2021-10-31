@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Sam Fu.
-- 👀 I’m interested in system software.
+- 👀 I’m interested in system software like Linux.
 - 💞️ I’m want to enhance my coding skill for C language.
 - 🌱 So I’m currently learning C. 
 Besides, I'm learning Linux kernel.   
