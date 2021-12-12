@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamFu1113)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SamFu1113.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SamFu1113.visitor-badge&left_text=My%20Page%20Visitors)
 
 [My website](https://samfu1113.github.io/)
 
