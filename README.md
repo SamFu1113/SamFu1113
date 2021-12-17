@@ -16,9 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SamFu1113.visitor-badge&left_text=Sam%20Profile%20Visitors)
 --->
 
-[My website](https://samfu1113.github.io/)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamFu1113)](https://github.com/SamFu1113/github-readme-stats)
+
+[My website](https://samfu1113.github.io/)
 
