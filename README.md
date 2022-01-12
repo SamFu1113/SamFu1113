@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SamFu1113.visitor-badge&left_text=Sam%20Profile%20Visitors)
+
 - 👋 Hello, I’m Sam Fu.
 - 👀 I’m interested in operating system like Linux.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(I'm learning Linux kernel)
@@ -10,7 +12,7 @@ samfu19971113/samfu19971113 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SamFu1113.visitor-badge&left_text=Sam%20Profile%20Visitors)
+
 
 ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamFu1113)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamFu1113)](https://github.com/SamFu1113/github-readme-stats)
 
