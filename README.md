@@ -2,7 +2,6 @@
 
 - 👋 Hello, I’m Sam Fu.
 - 👀 I’m interested in operating system like Linux.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - 💞️ To learn it more solid, I’m want to enhance my coding skill for C language.
 - 🌱 So I’m currently learning it.   
 - 📫 How to reach me: sam86111374@gmail.com .
