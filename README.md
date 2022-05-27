@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SamFu1113.visitor-badge&left_text=Sam%20Profile%20Visitors)
 
 - 👋 Hello, I’m Sam Fu.
-- 👀 I’m interested in operating system like Linux.\
+- 👀 I’m interested in operating system like Linux.
 - 💞️ To learn it more solid, I’m want to enhance my coding skill for C language.
 - 🌱 So I’m currently learning it.   
 - 📫 How to reach me: sam86111374@gmail.com .
