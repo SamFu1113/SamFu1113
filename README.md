@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamFu1113)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamFu1113)](https://github.com/SamFu1113/github-readme-stats)
 
 []([![trophy](https://github-profile-trophy.vercel.app/?username=SamFu1113&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
-![](https://github-profile-trophy.vercel.app/?username=SamFu1113&title=Stars,Commits, MultiLanguage, Respository)
+![](https://github-profile-trophy.vercel.app/?username=SamFu1113&rank=-C,-B)
 
 
 
