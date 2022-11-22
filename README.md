@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-trophy.vercel.app/?username=SamFu1113&rank=SSS,SS,S,AAA,AA,A,B&theme=flat)
 --->
 
-![](https://github-profile-trophy.vercel.app/?username=SamFu1113&theme=radical&row=1)
+![](https://github-profile-trophy.vercel.app/?username=SamFu1113&theme=flat&row=1)
 
 
 
