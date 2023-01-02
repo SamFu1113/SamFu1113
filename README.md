@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://github-profile-trophy.vercel.app/?username=SamFu1113&theme=flat&row=1)
-
+[![GitHub metrics](https://raw.githubusercontent.com/samfu1113/samfu1113/main/github-metrics.svg)](https://github.com/samfu1113)
 
 
 &nbsp;[My website](https://samfu1113.github.io/)
