@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub metrics](https://raw.githubusercontent.com/samfu1113/samfu1113/main/github-metrics.svg)](https://github.com/samfu1113)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samfu1113)](https://github.com/samfu1113)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samfu1113&mode=daily)](https://github.com/samfu1113)
 
 
 &nbsp;[My website](https://samfu1113.github.io/)
