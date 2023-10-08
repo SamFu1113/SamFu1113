@@ -1,4 +1,6 @@
+<!---
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SamFu1113.visitor-badge&left_text=Sam%20Profile%20Visitors)
+--->
 
 - 👋 Hello, I’m Sam Fu.
 - 👀 I’m interested in operating system like Linux.
